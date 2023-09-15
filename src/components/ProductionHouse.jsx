@@ -58,7 +58,7 @@ function ProductionHouse() {
             
         ))}
     </div>
-  )
+  );
 }
 
 export default ProductionHouse
